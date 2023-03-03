@@ -1,1 +1,1 @@
-# Ethereum-Learning-Notes
+# Ethereum Learning Notes
